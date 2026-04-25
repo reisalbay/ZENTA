@@ -1,8 +1,8 @@
 window.SITE_CONFIG = {
   companyName: 'ZENTA FİLO',
-  phoneDisplay: '905051152188',
-  phoneRaw: '905051152188',
-  whatsappRaw: '905051152188',
+  phoneDisplay: '905541197088',
+  phoneRaw: '905541197088',
+  whatsappRaw: '905541125128',
   whatsappMessage: 'Merhaba, Zenta Filo üzerinden araç rezervasyonu yapmak istiyorum.',
   locations: ['İstanbul Havalimanı', 'Sabiha Gökçen', 'Taksim', 'Kadıköy', 'Beşiktaş', 'Bursa Merkez'],
   workingHours: '7/24 rezervasyon ve teslimat desteği'
